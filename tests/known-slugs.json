@@ -9748,6 +9748,14 @@
 "device-types/Dell/VxRail-VP-760.yaml"
 ],
 [
+"delock-24-port-keystone-patch-panel-black",
+"device-types/Delock/43277.yaml"
+],
+[
+"delock-24-port-keystone-patch-panel-grey",
+"device-types/Delock/43302.yaml"
+],
+[
 "delta-ad-208-24c-a",
 "device-types/Delta/AD-208-24C-A.yaml"
 ],
