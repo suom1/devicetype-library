@@ -4572,6 +4572,10 @@
 "device-types/Cisco/C1000FE-48T-4G-L.yaml"
 ],
 [
+"cisco-c1121-4pltep",
+"device-types/Cisco/C1121-4PLTEP.yaml"
+],
+[
 "cisco-c1121x-8pltep",
 "device-types/Cisco/C1121X-8PLTEP.yaml"
 ],
