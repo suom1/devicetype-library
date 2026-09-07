@@ -16404,6 +16404,10 @@
 "device-types/Ideco/LX-plus.yaml"
 ],
 [
+"idis-dc-d4516wrx",
+"device-types/IDIS/DC-D4516WRX.yaml"
+],
+[
 "indigovision-3mp-microdome-bx400-in-ceiling",
 "device-types/IndigoVision/3mp-microdome-bx400-in-ceiling.yaml"
 ],
