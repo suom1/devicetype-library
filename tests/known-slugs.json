@@ -4996,6 +4996,10 @@
 "device-types/Cisco/C9200L-48T-4X.yaml"
 ],
 [
+"cisco-c921-4plteau",
+"device-types/Cisco/C921-4PLTEAU.yaml"
+],
+[
 "cisco-c921-4pltegb",
 "device-types/Cisco/C921-4PLTEGB.yaml"
 ],
