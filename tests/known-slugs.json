@@ -5636,6 +5636,14 @@
 "device-types/Cisco/IE-3100-18T2C-E.yaml"
 ],
 [
+"cisco-ie-3100-4p2s",
+"device-types/Cisco/IE-3100-4P2S.yaml"
+],
+[
+"cisco-ie-3100-4t2s",
+"device-types/Cisco/IE-3100-4T2S.yaml"
+],
+[
 "cisco-ie-3100-8t2c",
 "device-types/Cisco/IE-3100-8T2C.yaml"
 ],
