@@ -21704,6 +21704,10 @@
 "device-types/Riello/SDU-5000.yml"
 ],
 [
+"ripe-ncc-atlas-probe-v5",
+"device-types/RIPE NCC/Atlas-Probe-v5.yaml"
+],
+[
 "rittal-dk-7030000",
 "device-types/Rittal/DK-7030000.yaml"
 ],
