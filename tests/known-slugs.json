@@ -16728,6 +16728,14 @@
 "device-types/Juniper/AP36M.yaml"
 ],
 [
+"juniper-ap41",
+"device-types/Juniper/AP41.yaml"
+],
+[
+"juniper-ap43",
+"device-types/Juniper/AP43.yaml"
+],
+[
 "juniper-ap45",
 "device-types/Juniper/AP45.yaml"
 ],
